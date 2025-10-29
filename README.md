@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Monika]!
+## 👋 Hi, I'm Monika!
 
 **Experienced Frontend Developer** with over **3.5 years** of hands-on expertise in modern web technologies, UI frameworks, and interactive application development.
 
